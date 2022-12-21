@@ -1,0 +1,7 @@
+D:\Geometry Assignments\Intersection_of_points\bin\Debug\Intersection_of_points.exe.config
+D:\Geometry Assignments\Intersection_of_points\bin\Debug\Intersection_of_points.exe
+D:\Geometry Assignments\Intersection_of_points\bin\Debug\Intersection_of_points.pdb
+D:\Geometry Assignments\Intersection_of_points\obj\Debug\Intersection_of_points.csprojAssemblyReference.cache
+D:\Geometry Assignments\Intersection_of_points\obj\Debug\Intersection_of_points.csproj.CoreCompileInputs.cache
+D:\Geometry Assignments\Intersection_of_points\obj\Debug\Intersection_of_points.exe
+D:\Geometry Assignments\Intersection_of_points\obj\Debug\Intersection_of_points.pdb
